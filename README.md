@@ -1,5 +1,6 @@
 # JEPA-Guard: Real-Time Visual Anomaly & Quality Control SaaS
 
+
 > **Powered by Joint Embedding Predictive Architecture (JEPA)** — Pioneered by Yann LeCun & Meta AI.
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.12+-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org/)
